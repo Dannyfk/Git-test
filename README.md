@@ -5,4 +5,6 @@ Testing github
 
 ### Lets change something
 
+Now let's try something new
+
 * [Google](http://google.dk)
